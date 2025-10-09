@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Flabbyaxe272
 - 👀 I’m interested in continuing to build my homelab to house several applications
-- 🌱 I’m currently learning Linux, and Python. 
+- 🌱 I’m currently learning Linux, and Python
 - 📫 How to reach me best would be on WhatsApp
-- ⚡ Fun fact: I've built up my homelab to include services like Tailscale, Traefik, 
+- ⚡ Fun fact: I've built up my homelab to include services like Tailscale, Traefik, Immich, and others
 - 💻 Daily Driver: HP Elitebook 840 G10, Fedora 42
 
 <!---
