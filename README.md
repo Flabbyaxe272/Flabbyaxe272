@@ -2,9 +2,9 @@
 
 I break things in Docker so you don't have to.
 
-Somewhere between sysadmin and developer — I know how services tick,
+Somewhere between sysadmin and developer 🤷‍♂️ I know how services tick,
 how containers misbehave, and how to wrangle CLI tools into doing what I want.
-Still figuring out the rest.
+Still figuring out the rest. 
 
 ## what I'm comfortable with
 - 🐳 Docker & containerized services
@@ -16,7 +16,7 @@ Still figuring out the rest.
 - Personal projects (in progress — watch this space)
 
 ---
-*"I don't always know what I'm doing, but I know how to find out."*
+*"I don't always know what I'm doing, but I know how to find out."* 🧠
 
 <!---
 Flabbyaxe272/Flabbyaxe272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
